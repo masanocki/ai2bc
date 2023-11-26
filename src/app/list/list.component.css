@@ -1,0 +1,16 @@
+button {
+  background-color:rgb(196, 8, 8);
+  border-radius: 8px;
+  border-style: none;
+  color: #FFFFFF;
+  font-size: 11px;
+  font-weight: 400;
+  height: 30px;
+  margin-left: 10px;
+  padding: 5px 8px;
+  text-align: center;
+}
+ul{
+    display: grid;
+    gap: 10px;
+}

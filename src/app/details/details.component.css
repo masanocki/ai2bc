@@ -1,0 +1,11 @@
+.person{
+    border: 1px solid black;
+    width: 250px;
+    padding: 10px 10px;
+    margin: 10px 0;
+}
+
+dl {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
